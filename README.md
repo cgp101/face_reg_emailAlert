@@ -7,4 +7,5 @@ When user is recognized
 
 
 When system fail to recognize the user 
-![image](https://user-images.githubusercontent.com/60684968/143162539-0304dc3d-3c92-48ca-84f4-7463568c6098.png)
+![image](https://user-images.githubusercontent.com/60684968/143162896-f5c3fb33-3398-4250-b43f-0793b19167f1.png)
+
